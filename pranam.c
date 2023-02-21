@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("pranam");
+    printf("ganesh");
     return 0;
 }
